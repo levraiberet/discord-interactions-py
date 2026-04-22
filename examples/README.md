@@ -21,6 +21,8 @@ python examples/01_minimal.py
 - `07_modales_variantes.py`: plusieurs modales (text input, select, radio group, checkbox group, checkbox)
 - `08_modale_file_upload.py`: modale avec `FileUpload` (type 19)
 - `09_components_ops_pages.py`: update/remove/row_update en pratique avec toggle on/off + pages + versions container V2 + tests button-only + disable-all cible par message
+- `16_allowed_mentions_and_disable_timeout.py`: allowed mentions style Discord.js (`parse`) + disable auto d'un container via `message_id` apres X secondes
+- `17_fast_mode.py`: mode allege pour coder vite (quick container + quick button + routeur de boutons)
 - `05_containers_v2.py`: message en container V2
 - `06_signed_custom_ids.py`: `custom_id` signe avec validation
 
